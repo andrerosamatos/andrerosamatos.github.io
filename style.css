@@ -1,0 +1,31 @@
+body {
+				margin: 0;
+			}
+
+			.header-footer {
+				font-family: 'Merriweather', serif;
+				text-align: center;
+				background-color: #525252;
+				padding: 10px
+			}
+
+			section > div	{
+				font-family: 'Merriweather', serif;
+				background-color: #737373;
+				margin: 30px;
+				padding: 20px;
+				border-radius: 25px;
+				color: #d9d9d9;
+			}
+
+			header > img {
+				border-radius: 10%;
+			}
+
+				li {
+				margin-bottom: 3px;
+			}
+			
+			h1 { font-family: 'Merriweather', serif; font-weight: 400; }
+			h2 { font-family: 'Merriweather', serif; font-weight: 400; }
+			p { margin: 15px }
